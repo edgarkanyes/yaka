@@ -1,0 +1,7 @@
+id = "yaka"
+name = "Yaka Theme"
+version = "0.0.1"
+schema_version = 2
+authors = ["edgarkanyes <edgarkanyes@gmail.com>"]
+description = "A light theme for the Zed Editor"
+repository = "https://github.com/edgarkanyes/yaka"
