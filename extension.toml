@@ -2,6 +2,6 @@ id = "yaka"
 name = "Yaka Theme"
 version = "0.0.2"
 schema_version = 1
-authors = ["kanyesigye <edgarkanyes@gmail.com>"]
+authors = ["Kanyesigye"]
 description = "A light theme for the Zed Editor"
 repository = "https://github.com/edgarkanyes/yaka"
