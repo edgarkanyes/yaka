@@ -147,8 +147,14 @@
             "font_weight": null
           },
           "embedded": {},
-          "emphasis": {},
-          "emphasis.strong": {},
+          "emphasis": {
+            "color": "#6f42c1",
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "color": "#6f42c1",
+            "font_weight": 700
+          },
           "enum": {},
           "function": {
             "background_color": null,
@@ -169,8 +175,13 @@
             "font_style": null,
             "font_weight": null
           },
-          "link_text": {},
-          "link_uri": {},
+          "link_text": {
+            "color": "#0084ff"
+          },
+          "link_uri": {
+            "color": "#f80303",
+            "font_style": "italic"
+          },
           "number": {
             "background_color": null,
             "color": "#0084ff",
@@ -190,8 +201,15 @@
           "punctuation": {},
           "punctuation.bracket": {},
           "punctuation.delimiter": {},
-          "punctuation.list_marker": {},
-          "punctuation.special": {},
+          "punctuation.list_marker": {
+            "color": "#0084ff"
+          },
+          "punctuation.embedded": {
+            "font_style": "italic"
+          },
+          "punctuation.special": {
+            "color": "#6f42c1"
+          },
           "string": {
             "background_color": null,
             "color": "#f80303",
@@ -231,11 +249,14 @@
           "tag.doctype": {},
           "text.literal": {
             "background_color": null,
-            "color": "#032f62",
+            "color": "#4aac35ff",
             "font_style": null,
             "font_weight": null
           },
-          "title": {},
+          "title": {
+            "color": "#0084ff",
+            "font_weight": 700
+          },
           "type": {
             "background_color": null,
             "color": "#6f42c1",
